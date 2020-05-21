@@ -2,37 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5dca31f-d6bb-4410-b2ae-8de30742ec8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sandbox.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sandbox1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_ptf.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/java_ptf.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gradle_wrapper1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sandbox2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sandbox3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/src/main/java/learnJava/Dogs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sandbox/src/main/java/learnJava/SquateTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_ptf.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_ptf.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java_ptf/learnJava/MyFirstProgramm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java_ptf/learnJava/MyFirstProgramm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sandbox/src/main/java/learnJava/MyFirstProgramm.java" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox/src/main/java/learnJava/MyFirstProgramm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cEVvH42n82ufjIG2eLEIp7uS2I" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.SquateTests">
     <configuration name="MyFirstProgramm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learnJava.MyFirstProgramm" />
       <module name="java_ptf" />
@@ -46,9 +64,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/Wazzu/Documents/GitHub/java_ptf/sandbox/build.gradle" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sandbox/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SquateTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="java_ptf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learnJava.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="learnJava" />
+      <option name="MAIN_CLASS_NAME" value="learnJava.SquateTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SquateTests" />
         <item itemvalue="Application.MyFirstProgramm" />
+        <item itemvalue="Gradle.C:/Users/Wazzu/Documents/GitHub/java_ptf/sandbox/build.gradle" />
       </list>
     </recent_temporary>
   </component>
@@ -66,21 +120,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1590094031399">
+    <state x="580" y="139" key="FileChooserDialogImpl" timestamp="1590095211363">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590094031399" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1590094031399">
+    <state x="580" y="139" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1590095211363" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1590096616234">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590094031399" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1590094031398">
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590096616234" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1590096616234">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590094031398" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1590094031399">
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590096616234" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1590096616234">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590094031399" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590096616234" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1590096616234">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590096616234" />
+    <state x="465" y="128" key="NewModule_or_Project.wizard" timestamp="1590095223648">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="465" y="128" key="NewModule_or_Project.wizard/0.0.1600.860@0.0.1600.860" timestamp="1590095223648" />
+    <state x="280" y="4" key="SettingsEditor" timestamp="1590095310921">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="280" y="4" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1590095310921" />
+    <state x="504" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590095297424">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="504" y="323" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1600.860@0.0.1600.860" timestamp="1590095297424" />
   </component>
 </project>
